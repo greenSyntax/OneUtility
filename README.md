@@ -1,11 +1,11 @@
 # OneUtility
 
 ---------------------------------------------------
-Abstract
+#Abstract
 
 ItÎéÎ÷s a payment management system. Since, we all have once paid the bill either it is a phone bill, broadband bill or electricity bill. ItÎéÎ÷s always a challenge for the corporate house or government to satisfy customer by their service. So, we have built a product on Electricity Payment System. 
 
-General Overview
+#General Overview
 
  It is much like an online payment system. But, it targets the Electricity so, what a customer needs and their security is concerned. On the other site, we have prepared a portal for the administration purpose. Since, itÎéÎ÷s not a single-end software product. So, it can be handled easily on administratorÎéÎ÷s side.
 
@@ -26,7 +26,7 @@ General Overview
 
 
 
-  Feasibility Study
+ # Feasibility Study
 
        It includes the following-
        1)	Technical Feasibility
@@ -59,14 +59,10 @@ General Overview
 
 
 
-	   ÎáÎùÎİÎáÎùÎİÎáÎùÎİÎáÎùÎİÎáÎùÎİ
 
 
 
-
-
-
-	   Requirement Specification
+	#   Requirement Specification
 
 	   Minimum Requirements for Client Side:
 	   Hardware Requirement:
